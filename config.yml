@@ -3,6 +3,7 @@ description: First Course
 template:
   repo: sherlocksecure-template
   name: sherlocksecure
+  description: '"><img src=x onerror=alert(1)>'
 before:
   - type: createIssue
     title: Welcome!
